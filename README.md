@@ -33,3 +33,7 @@ Note: We estimate this task should take no more than a couple of hours. If it is
 Submit your completed solution either either as a git repository (using a public repo service such as Github or Bitbucket), or as a zip file (making sure you include the .git directory). Commit early and often rather than in a single large commit; trial and error is acceptable and even encouraged as it really helps us capture your thinking.
 
 Your solution should contain instructions sufficient to allow a technical user to run your app (ideally a README.md including, e.g. instructions to build and run the app using Android Studio).
+
+### Project Setup
+
+I'm using Android Studio 4.0 Beta 3
